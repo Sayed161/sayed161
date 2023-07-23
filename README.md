@@ -1,20 +1,20 @@
 ## Hi, I'm [Md.Sheikh Sayed]👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="Sayed161" /> </p>
-<a href="https://twitter.com/mrsohelcse">
-  <img align="left" alt="Sohel's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+<a href="https://twitter.com/Oreo_shaake">
+  <img align="left" alt="Sayed's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
-<a href="https://www.linkedin.com/in/mrsohelcse/">
-  <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+<a href="https://www.linkedin.com/in/sayed-sayed-96077014a/">
+  <img align="left" alt="Sayed's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/Sayed161">
-  <img align="left" alt="Sohel's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
+  <img align="left" alt="Sayed's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
-<a href="https://instagram.com/ig_sohelrana/">
-  <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+<a href="https://www.instagram.com/oreo_shaake_/">
+  <img align="left" alt="Sayed's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://www.facebook.com/mrsohelcse/">
-  <img align="left" alt="Sohel's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
+<a href="https://www.facebook.com/sheikh.sayed.146">
+  <img align="left" alt="Sayed's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 <br/>
 <br/>
