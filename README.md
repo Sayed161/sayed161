@@ -19,9 +19,9 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I learned Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
+- 💬 Ask me about anything [here]((https://www.linkedin.com/in/sayed-sayed-96077014a/))
 - ⚡ Fun fact: I often play video games.
 
 
