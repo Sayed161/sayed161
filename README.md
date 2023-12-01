@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I often play video games.
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&hide=contribs,prs&theme=transparent)
+![My github stats](https://github-readme-stats.vercel.app/api?username=sayed161&show_icons=true&hide=contribs,prs&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
