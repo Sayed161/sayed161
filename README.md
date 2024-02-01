@@ -21,7 +21,7 @@
 
 - 🌱 I learned Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
-- 🤔 I’m a Backend Django developer.
+- 🔱 I’m a Backend Django developer.
 - 💬 Ask me about anything [here]((https://www.linkedin.com/in/sayed-sayed-96077014a/))
 - ⚡ Fun fact: I often play video games.
 
