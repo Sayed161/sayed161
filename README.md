@@ -4,13 +4,13 @@
 <a href="https://twitter.com/Oreo_shaake">
   <img align="left" alt="Sayed's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
-<a href="https://www.linkedin.com/in/sayed-sayed-96077014a/">
+<a href="https://www.linkedin.com/in/sheikh-sayed/">
   <img align="left" alt="Sayed's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
-<a href="https://github.com/Sayed161">
+<a href="https://github.com/Sayed1-11">
   <img align="left" alt="Sayed's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
-<a href="https://www.instagram.com/oreo_shaake_/">
+<a href="https://www.instagram.com/Sayed_in_frame/">
   <img align="left" alt="Sayed's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://www.facebook.com/sheikh.sayed.146">
@@ -21,13 +21,13 @@
 
 - 🌱 I learned Data Structures and Algorithms.
 - 🔱 I’m a Backend Django developer.
-- 💬 Ask me about anything [here]((https://www.linkedin.com/in/sayed-sayed-96077014a/))
+- 💬 Ask me about anything [here]((https://www.linkedin.com/in/sheikh-sayed/))
 - ⚡ Fun fact: I often play video games.
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sayed161&show_icons=true&hide=contribs,prs&theme=transparent)
+![My github stats](https://github-readme-stats.vercel.app/api?username=sayed1-11&show_icons=true&hide=contribs,prs&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed161&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed1-11&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**
 
