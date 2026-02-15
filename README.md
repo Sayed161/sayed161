@@ -1,52 +1,73 @@
-## Hi, I'm [Md.Sheikh Sayed]👋
+<h1 align="center">Md. Sheikh Sayed</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed161&label=Views&color=blue&style=plastic" alt="Sayed161" /> </p>
-<a href="https://twitter.com/Oreo_shaake">
-  <img align="left" alt="Sayed's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
-<a href="https://www.linkedin.com/in/sheikh-sayed/">
-  <img align="left" alt="Sayed's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
-</a>
-<a href="https://github.com/Sayed1-11">
-  <img align="left" alt="Sayed's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
-</a>
-<a href="https://www.instagram.com/Sayed_in_frame/">
-  <img align="left" alt="Sayed's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
-<a href="https://www.facebook.com/sheikh.sayed.146">
-  <img align="left" alt="Sayed's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
-</a>
-<br/>
-<br/>
+<p align="center">
+Backend Django Developer • Data Enthusiast • Future Tech Entrepreneur
+</p>
 
-- 🌱 I learned Data Structures and Algorithms.
-- 🔱 I’m a Backend Django developer.
-- 💬 Ask me about anything [here]((https://www.linkedin.com/in/sheikh-sayed/))
-- ⚡ Fun fact: I often play video games.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sayed161&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&size=22&lines=Backend+Django+Engineer;Building+Scalable+Systems;Creative+Mind+with+Data+Intelligence;Turning+Ideas+into+Products" />
+</p>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sayed1-11&show_icons=true&hide=contribs,prs&theme=transparent)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed1-11&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Featured Projects
 
-**Languages and Tools:**
+### 🔹 TaskHub  
+Secure task marketplace platform with scalable backend architecture.  
+🔗 https://github.com/Sayed1-11/taskhubServerSide  
+🌍 https://taskbucks-4a4ba.web.app/
 
-<img align="left" alt="C" width="26px" src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png"/>
-<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" align="left" alt="Django" width="26px"/>
+---
 
-<img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png"/>
-<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png"/>
-<img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png"/>
-<img align="left" alt="VsCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" align="left" width="26px"/>
-<br/>
-<br/>
+### 🔹 CareerSwift  
+Platform helping young developers grow and collaborate.  
+🔗 https://github.com/Sayed161/CareerSwift  
 
-<div align="center">
+---
 
+### 🔹 StyleHub  
+Backend-powered e-commerce clothing platform with authentication and order processing.  
+🔗 https://github.com/Sayed1-11/ServerSide_clothing  
+🌍 https://stylehub-11c33.web.app/
 
-</div>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,cpp,c,js,html,css,mysql,git,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayed161&theme=tokyo-night&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/tokyonight/Sayed161" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sayed161&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheikh-sayed/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/Oreo_shaake">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/Sayed_inframe/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
